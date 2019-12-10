@@ -1,5 +1,5 @@
 Što se još može poboljšati/popraviti/dodati:
-• Ako je moguće tekstove pitanja i odgovora pospremiti u nekakvu datoteku pa ih čitati iz datoteke,
+• Ako je moguće tekstove pitanja i odgovora pospremiti u nekakvu datoteku pa ih čitati iz datoteke (istražiti ako se to može),
  time bi se povećala sama čitljivost koda, tim više ako želimo dodati još nekolicinu pitanja.
  Svakako i u ovaj kod možemo dodati još pitanja i odgovora! 
  Kada bismo ostvarili čitanje iz datoteke, tada u kodu se postave for ili while petlje koje čitaju podatke iz datoteke.
