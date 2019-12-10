@@ -1,0 +1,11 @@
+Što se još može poboljšati/popraviti/dodati:
+• Ako je moguće tekstove pitanja i odgovora pospremiti u nekakvu datoteku pa ih čitati iz datoteke (nisam stigla istražiti da li se to može),
+ time bi se povećala sama čitljivost koda, tim više ako želimo dodati još nekolicinu pitanja.
+ Svakako i u ovaj kod možemo dodati još pitanja i odgovora! 
+ Kada bismo ostvarili čitanje iz datoteke, tada u kodu se postave for ili while petlje koje čitaju podatke iz datoteke.
+ Kod je za sada pun fiksnih duljina, fiksnih pozicija itd., a tada bismo sve trebali očitavati iz datoteke te reskalirati pozicije kako bi stale u zadani prostor
+ (svakako morali bismo imati neku fiksnu dopuštajuću duljinu teksta koji će se reproducirati na ekran).
+• Mogu se dodati neka druga pravila igre, u smislu da „teža“ pitanja nose više bodova, „lakša“ manje bodova,
+ ili da u ovisnosti koliko brzo se odgovori na pitanje (naravno „Točno“) tim više bodova se dobije. 
+ Također, mogu se dodati i vremenska ograničenja za odgovaranje na pitanja. 
+• Dodati gumb za start pa time da započne igrica (kako bi se korisnik "pripremio" na novu igricu).
